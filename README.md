@@ -9,3 +9,5 @@ Receitas simples para cozinhar
 [Patinho na panela de pressão com molho de manteiga e mel](patinho_pressao.txt)
 
 [Pudim de leite condensado](pudimdeleitecondensado.txt)
+
+[Biscoito de nata](Biscoito_de_nata.md)
