@@ -12,7 +12,7 @@
 
 ## Modo de preparo
 
-- Tempo aproximado de preparo: 15 minutos
-- Junte tudo em uma forma **sem untar** e asse a 160~180 graus. 
-- Retire quando começar a dourar as bordas
-
+- Junte tudo em uma forma **sem untar** e asse a 160~180 graus.
+- Tempo aproximado para assar: 15 minutos
+- Desligue quando começar a dourar as bordas
+- Espere esfriar para retirar do forno
